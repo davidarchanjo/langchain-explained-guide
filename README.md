@@ -27,29 +27,6 @@ Whether you're new to LangChain or looking for concise examples of specific feat
 
 ---
 
-## Project Structure
-```
-.
-├── assets/company_credentials.txt
-├── 01_hello_world.py
-├── 02_prompt_template.py
-├── 03_output_parser_json.py
-├── 03_output_parser_native_structured.py
-├── 03_output_parser_pydantic.py
-├── 03_output_parser_str.py
-├── 04_lcel_batch_processing.py
-├── 04_lcel_branching_with_runnableparallel.py
-├── 04_lcel_streaming.py
-├── 05_memory_with_conversation_history.py
-├── 06_rag_document_with_chroma.py
-├── 06_rag_document_with_faiss.py
-├── 07_function_tool_calling.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Requirements
 - Python 3.10+
 - OpenAI-compatible language model
