@@ -2,9 +2,7 @@
 
 A collection of practical, self-contained Python examples demonstrating the most important concepts in **LangChain**.
 
-This repository is the companion codebase for my **LangChain Explained Guide**, where I walk through the core concepts of LangChain with explanations and best practices. Every example in the guide has a corresponding runnable Python implementation in this repository, allowing you to experiment with the code while reading.
-
-📖 **Read the guide on Dev.to:** [dev.to/darchanjo/langchain-explained-a-practical-guide-for-beginners](https://dev.to/darchanjo/langchain-explained-a-practical-guide-for-beginners-38jn)
+This repository is the companion codebase for my [**LangChain Explained Guide**](https://dev.to/darchanjo/langchain-explained-a-practical-guide-for-beginners-38jn), where I walk through the core concepts of LangChain with explanations and best practices. Every example in the guide has a corresponding runnable Python implementation in this repository, allowing you to experiment with the code while reading.
 
 Whether you're new to LangChain or looking for concise examples of specific features, this repository is designed to serve as a hands-on learning resource.
 
