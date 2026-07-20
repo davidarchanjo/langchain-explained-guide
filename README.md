@@ -7,6 +7,7 @@ This repository is the companion codebase for my [**LangChain Explained Guide**]
 Whether you're new to LangChain or looking for concise examples of specific features, this repository is designed to serve as a hands-on learning resource.
 
 ## Features
+- AI Assistant
 - Prompt templates
 - Output parsers
   - String output
@@ -66,6 +67,18 @@ export OPENAI_API_KEY=<your-api-key>
 ---
 
 ## Examples
+
+### 00 - AI Assistant
+A simple and minimalist AI assistant that can answer questions in a conversational manner.
+
+Concepts:
+- Chat models
+- Invoking an LLM
+- Prompt variables
+- Message templates
+- Streaming responses
+
+---
 
 ### 01 - Hello World
 The simplest possible LangChain application.
